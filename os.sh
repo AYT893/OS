@@ -12,16 +12,17 @@ echo -e " \e[91m                                                   ____      ___
 echo -e " \e[91m                                                  / __ \    / ____\ " 
 echo -e " \e[96m                                                 / /  \ \  ( (___   " 
 echo -e " \e[96m                                                ( ()  () )  \___ \  " 
-echo -e " \e[1;91m Youtube\e[96m / \e[100;97myoutube.com/h4ck3r0\e[0;31m                  ( ()  () )      ) )" 
-echo -e " \e[1;91m Github\e[96m /\e[1;93m H4Ck3R0                                \ \__/ /   ___/ /"  
-echo -e " \e[1;91m Telegram\e[1;96m /\e[1;92m H4Ck3R_0                              \____/   /____/"    
+echo -e " \e[96m                                                               ( ()  () )      ) )" 
+echo -e " \e[1;91m Github\e[96m /\e[1;93m AYT                                    \ \__/ /   ___/ /"  
+echo -e " \e[1;91m Telegram\e[1;96m /\e[1;92m AYT893                              \____/   /____/"    
 echo ""
 
 banner ( ) {
                   
                   
                   printf ""
-                 
+                   by AYT 
+                   HACKER.
                   }
 
                   wr  ( )  {
@@ -43,7 +44,7 @@ banner ( ) {
                                                          clear
                                                          cd ~/Termux-os/.object/ && cp -r 'ANSI Shadow.flf'  $PREFIX/share/figlet/ASCII-Shadow.flf 
                                                          git clone https://github.com/ohmyzsh/ohmyzsh.git ~/.oh-my-zsh
-                                                       
+                       E  *.                              
                                                          pkg install toilet figlet exa -y
                                                          cd ~/Termux-os/.object
                                                          rm -rf ~/.termux/colors.properties
@@ -65,7 +66,7 @@ banner ( ) {
                                                                                                  pkg install zsh
                                                                                                  chsh -s zsh
                                                                                                  cd ~/Termux-os ; bash os.sh
-                                                                                                  }
+                                                                  
                                                                                                    4line() {
                                                                                                                          chsh -s bash
                                                                                                                          cd  ~/Termux-os ; bash os.sh
